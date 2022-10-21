@@ -1,0 +1,6 @@
+def radius (r):
+    a=3.14
+    a=a*r**2
+    print("area is ",a)
+n=int (input("enter no."))
+radius(n)
